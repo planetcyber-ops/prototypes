@@ -8,14 +8,6 @@ Every element has an opening tag, optional content, and a closing tag.
 
 The browser reads this tree (called the DOM) to render the page.
 
-Example
-index.html
-<p class="lead" title="Intro">Hello world</p>
-Tag name: p defines a paragraph.
-Attributes: class and title supply metadata.
-Content: Inner text that users see.
-If you want to read more or get an in-depth understanding, see HTML Elements and HTML Attributes in the HTML tutorial.
-
 Global attributes you will use everywhere
 class - groups elements for CSS styling.
 id - unique identifier for one element (useful for anchors and scripting).
